@@ -1,0 +1,16 @@
+.buttons{
+    margin: 20px auto;
+    background: #282c34;
+    height: 165px;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    border: 4px solid #61dafb;
+}
+.buttons_number{
+    color: #282c34;
+    font-size: 100px;
+}
